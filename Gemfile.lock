@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    benchmark (0.3.0)
+    power_assert (2.0.1)
+    test-unit (3.5.3)
+      power_assert
+
+PLATFORMS
+  arm64-darwin-23
+  universal-darwin-21
+
+DEPENDENCIES
+  benchmark
+  test-unit
+
+BUNDLED WITH
+   2.3.14
